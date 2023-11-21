@@ -1,0 +1,16 @@
+data/
+Dockerfile
+docker_commands.sh
+Stacked_Model.ipynb
+__pycache__/
+/.ipynb_checkpoints/
+/params/
+/graphs/
+/Emissions/
+/.Rproj.user/
+/params_random/
+/results/
+/SUM_1/
+/SUM_2/
+/SUM_3/
+/SUM_4/
